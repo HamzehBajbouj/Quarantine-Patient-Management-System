@@ -1,0 +1,73 @@
+14
+14
+Butler Marion,303-739-9289,Aurora Colorado,EmergancyRoom,Low,P132443
+Fever,Cough,chills,Fatigue,Muscle,body aches,Sore throat
+Congestion,runny nose,Hydrocodone,Bacon,Chicken and Rice,Meatloaf,Orange jucie
+Nausea,loss of taste or smell,Hydrocodone,Bacon,Chicken and Rice,Meatloaf,Orange jucie
+Diarrhea,No Newsymptom,Hydrocodone,Bacon,Chicken and Rice,Meatloaf,Orange jucie
+Christine J Butler,724-296-5143,Portland Pennsylvania,EmergancyRoom,Low,P323233
+Fever,Cough,chills,Fatigue,Muscle,body aches,Sore throat
+Congestion,runny nose,Hydrocodone,Bacon,Chicken and Rice,Meatloaf,Orange jucie
+Nausea,loss of taste or smell,Hydrocodone,Bacon,Chicken and Rice,Meatloaf,Orange jucie
+Diarrhea,No Newsymptom,Hydrocodone,Bacon,Chicken and Rice,Meatloaf,Orange jucie
+Robert M Hauser,201-429-0813,New Brunswick New Jersey,EmergancyRoom,Moderate,P43433
+Fever,Cough,chills,Fatigue,Muscle,body aches,Sore throat
+Congestion,runny nose,Hydrocodone,Bacon,Chicken and Rice,Meatloaf,Orange jucie
+Nausea,loss of taste or smell,Hydrocodone,Bacon,Chicken and Rice,Meatloaf,Orange jucie
+Diarrhea,No Newsymptom,Hydrocodone,Bacon,Chicken and Rice,Meatloaf,Orange jucie
+Marion E Stam,775-258-8244,Reno-Nevada,EmergancyRoom,High,P43432
+Fever,Cough,chills,Fatigue,Muscle,body aches,Sore throat
+Congestion,runny nose,Hydrocodone,Bacon,Chicken and Rice,Meatloaf,Orange jucie
+Nausea,loss of taste or smell,Hydrocodone,Bacon,Chicken and Rice,Meatloaf,Orange jucie
+Diarrhea,No Newsymptom,Hydrocodone,Bacon,Chicken and Rice,Meatloaf,Orange jucie
+Donald A Neville,314-385-7856,Saint Louis-Missouri,EmergancyRoom,Moderate,P765654
+Fever,Cough,chills,Fatigue,Muscle,body aches,Sore throat
+Congestion,runny nose,Hydrocodone,Bacon,Chicken and Rice,Meatloaf,Orange jucie
+Nausea,loss of taste or smell,Hydrocodone,Bacon,Chicken and Rice,Meatloaf,Orange jucie
+Diarrhea,No Newsymptom,Hydrocodone,Bacon,Chicken and Rice,Meatloaf,Orange jucie
+Luanne R Kea,702-836-3558,Las Vegas-Nevada,EmergancyRoom,High,P65476
+Fever,Cough,chills,Fatigue,Muscle,body aches,Sore throat
+Congestion,runny nose,Hydrocodone,Bacon,Chicken and Rice,Meatloaf,Orange jucie
+Nausea,loss of taste or smell,Hydrocodone,Bacon,Chicken and Rice,Meatloaf,Orange jucie
+Diarrhea,No Newsymptom,Hydrocodone,Bacon,Chicken and Rice,Meatloaf,Orange jucie
+Richard L Lacey,513-456-7649,Cincinnati-Ohio,EmergancyRoom,High,P54434
+Fever,Cough,chills,Fatigue,Muscle,body aches,Sore throat
+Congestion,runny nose,Hydrocodone,Bacon,Chicken and Rice,Meatloaf,Orange jucie
+Nausea,loss of taste or smell,Hydrocodone,Bacon,Chicken and Rice,Meatloaf,Orange jucie
+Diarrhea,No Newsymptom,Hydrocodone,Bacon,Chicken and Rice,Meatloaf,Orange jucie
+Keith J Williams,757-848-7722,Hampton-Virginia,QuaratineRoom,High,P555555
+Fever,Cough,chills,Fatigue,Muscle,body aches,Sore throat
+Congestion,runny nose,Hydrocodone,Bacon,Chicken and Rice,Meatloaf,Orange jucie
+Nausea,loss of taste or smell,Hydrocodone,Bacon,Chicken and Rice,Meatloaf,Orange jucie
+Diarrhea,No Newsymptom,Hydrocodone,Bacon,Chicken and Rice,Meatloaf,Orange jucie
+Clara D White,847-989-1153,Northbrook-Illinois,QuaratineRoom,Low,P55654
+Fever,Cough,chills,Fatigue,Muscle,body aches,Sore throat
+Congestion,runny nose,Hydrocodone,Bacon,Chicken and Rice,Meatloaf,Orange jucie
+Nausea,loss of taste or smell,Hydrocodone,Bacon,Chicken and Rice,Meatloaf,Orange jucie
+Diarrhea,No Newsymptom,Hydrocodone,Bacon,Chicken and Rice,Meatloaf,Orange jucie
+Lynda E Cross,408-218-4950,Santa Clara-California,QuaratineRoom,Low,P54476
+Fever,Cough,chills,Fatigue,Muscle,body aches,Sore throat
+Congestion,runny nose,Hydrocodone,Bacon,Chicken and Rice,Meatloaf,Orange jucie
+Nausea,loss of taste or smell,Hydrocodone,Bacon,Chicken and Rice,Meatloaf,Orange jucie
+Diarrhea,No Newsymptom,Hydrocodone,Bacon,Chicken and Rice,Meatloaf,Orange jucie
+John B Casas,505-437-4141,Alamogordo-New Mexico,QuaratineRoom,Low,P434567
+Fever,Cough,chills,Fatigue,Muscle,body aches,Sore throat
+Congestion,runny nose,Hydrocodone,Bacon,Chicken and Rice,Meatloaf,Orange jucie
+Nausea,loss of taste or smell,Hydrocodone,Bacon,Chicken and Rice,Meatloaf,Orange jucie
+Diarrhea,No Newsymptom,Hydrocodone,Bacon,Chicken and Rice,Meatloaf,Orange jucie
+Christopher M Simmons,630-678-6598,Lombard-Illinois,QuaratineRoom,Moderate,P5466777
+Fever,Cough,chills,Fatigue,Muscle,body aches,Sore throat
+Congestion,runny nose,Hydrocodone,Bacon,Chicken and Rice,Meatloaf,Orange jucie
+Nausea,loss of taste or smell,Hydrocodone,Bacon,Chicken and Rice,Meatloaf,Orange jucie
+Diarrhea,No Newsymptom,Hydrocodone,Bacon,Chicken and Rice,Meatloaf,Orange jucie
+Beth B Griffin,856-430-4749,Maple Shade-New Jersey,QuaratineRoom,Moderate,P655667
+Fever,Cough,chills,Fatigue,Muscle,body aches,Sore throat
+Congestion,runny nose,Hydrocodone,Bacon,Chicken and Rice,Meatloaf,Orange jucie
+Nausea,loss of taste or smell,Hydrocodone,Bacon,Chicken and Rice,Meatloaf,Orange jucie
+Diarrhea,No Newsymptom,Hydrocodone,Bacon,Chicken and Rice,Meatloaf,Orange jucie
+Kellie K Tippett,314-660-7365,Stlouis-Missouri,QuaratineRoom,Moderate,P654367
+Fever,Cough,chills,Fatigue,Muscle,body aches,Sore throat
+Congestion,runny nose,Hydrocodone,Bacon,Chicken and Rice,Meatloaf,Orange jucie
+Nausea,loss of taste or smell,Hydrocodone,Bacon,Chicken and Rice,Meatloaf,Orange jucie
+Diarrhea,No Newsymptom,Hydrocodone,Bacon,Chicken and Rice,Meatloaf,Orange jucie
+
